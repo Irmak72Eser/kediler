@@ -1,6 +1,9 @@
 HELP.md
 target/
+<<<<<<< HEAD
 
+=======
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -20,6 +23,10 @@ target/
 *.iml
 *.ipr
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -36,3 +43,9 @@ build/
 
 
 
+<<<<<<< HEAD
+=======
+/docker/postgresql/data
+
+
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c

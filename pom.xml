@@ -8,11 +8,19 @@
         <version>3.2.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+<<<<<<< HEAD
     <groupId>com.toker</groupId>
     <artifactId>ulkeler</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ulkeler</name>
     <description>ulkeler</description>
+=======
+    <groupId>com.countries</groupId>
+    <artifactId>countriesbe</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>countriesbe</name>
+    <description>countriesbe</description>
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -23,10 +31,13 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+=======
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
@@ -37,11 +48,14 @@
             <optional>true</optional>
         </dependency>
         <dependency>
+<<<<<<< HEAD
             <groupId>com.mysql</groupId>
             <artifactId>mysql-connector-j</artifactId>
             <scope>runtime</scope>
         </dependency>
         <dependency>
+=======
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
@@ -56,11 +70,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
+=======
+>>>>>>> c45717c52eeb4f6a0abdb979bd514b096339620c
     </dependencies>
 
     <build>
